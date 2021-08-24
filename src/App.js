@@ -2,7 +2,7 @@ import React from "react";
 
 import "./App.css";
 
-import Calculator from "./Calculator";
+import Calculator from "./component/Calculator";
 
 function App() {
   return (
